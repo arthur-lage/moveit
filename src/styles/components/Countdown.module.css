@@ -13,7 +13,7 @@
   align-items: center;
   background-color: var(--white);
   box-shadow: 0 0 60px rgba(0, 0, 0, 0.05);
-  border-radius: 5px;
+  border-radius: 10px;
   font-size: 8.5rem;
   text-align: center;
 }
@@ -56,6 +56,21 @@
   margin-top: 2rem;
 }
 
-.countdownButton:hover {
+.countdownButton:not(:disabled):hover {
   background: var(--blue-dark);
+}
+
+.countDownButtonActive {
+  background-color: var(--red);
+}
+
+.countDownButtonActive:not(:disabled):hover {
+  background-color: var(--red-dark);
+}
+
+.countdownButton:disabled {
+  background: var(--white);
+  color: var(--text);
+  cursor: not-allowed;
+  border-bottom: 6px solid var(--green);
 }
