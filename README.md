@@ -42,7 +42,10 @@ Foram utilizados: React.js, Next.js, Typescript, HTML, CSS.
 
 Para baixar você vai precisar do Git, Node.js, e Yarn instalados em sua maquina. Caso precise de ajuda para baixar o Yarn e o Node.js, [CLIQUE AQUI](https://www.youtube.com/watch?v=CD_GC1kvWAA) para acessar um vídeo tutorial no youtube. Créditos do video: [Cubic Code](https://www.youtube.com/channel/UCDhy8vAYoTFmi3ZSwokRaEg).
 
-Abra seu terminal.
-Depois disso, use o comando: git clone https://github.com/arthur-lage/moveit.git.
-Utilize o comando: cd nomedodiretório até chegar no diretório do projeto.
-Digite: "yarn dev" (sem áspas) e o projeto será aberto em uma nova aba de seu navegador.
+1- Abra seu terminal.
+
+2- Depois disso, use o comando: git clone https://github.com/arthur-lage/moveit.git.
+
+3- Utilize o comando: cd nomedodiretório até chegar no diretório do projeto.
+
+4- Digite: "yarn dev" (sem áspas) e o projeto será aberto em uma nova aba de seu navegador.
