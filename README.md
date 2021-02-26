@@ -8,6 +8,6 @@ O projeto move.it foi desenvolvido durante a quarta edição do evento Next Leve
 
 ## Como funciona
 
-A aplicação conta com um timer de 25 minutos, e ao clicar no botão "Iniciar um ciclo", o timer começará a descer. Quando o contador chega em 00:00, o sistema seleciona aleatoriamente um alongamento, que está no arquivo ("challenges.json" https://github.com/arthur-lage/moveit/blob/main/challenges.json)
+A aplicação conta com um timer de 25 minutos, e ao clicar no botão "Iniciar um ciclo", o timer começará a descer. Quando o contador chega em 00:00, o sistema seleciona aleatoriamente um alongamento, que está no arquivo [challenges.json](https://github.com/arthur-lage/moveit/blob/main/challenges.json)
 
 ![Imagem 1](https://github.com/arthur-lage/moveit/blob/main/assets/Screenshot_44.png)
