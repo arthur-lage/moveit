@@ -12,11 +12,11 @@ A aplicação conta com um timer de 25 minutos, e ao clicar no botão "Iniciar u
 
 ![Imagem IniciarCiclo](https://github.com/arthur-lage/moveit/blob/main/assets/Screenshot_44.png)
 
-Após iniciar um novo ciclo, o botão de "Iniciar um ciclo" se transforma em "Abandonar ciclo", o qual, cancela o timer atual.
+Após iniciar um novo ciclo, o botão de "Iniciar um ciclo" se transforma em "Abandonar ciclo", o qual cancela o timer atual.
 
 ![Imagem EncerrarCiclo](https://github.com/arthur-lage/moveit/blob/main/assets/image_2021-02-26_165533.png)
 
-A aplicação também possui uma barra de experiência, que vai sendo preenchida conforme o usuário completa os desafios
+A aplicação também possui uma barra de experiência, que vai sendo preenchida conforme o usuário completa os desafios.
 
 ![Imagem XPBar](https://github.com/arthur-lage/moveit/blob/main/assets/image_2021-02-26_165952.png)
 
@@ -26,11 +26,13 @@ Foram utilizados: React.js, Next.js, Typescript, HTML, CSS.
 
 # Como usar o projeto sem baixar?
 
-[CLIQUE AQUI](https://moveit-hrnepn47a-arthur-lage.vercel.app) Este é o link do site. Deploy feito em: vercel.com
+[CLIQUE AQUI](https://moveit-hrnepn47a-arthur-lage.vercel.app) Este é o link do site. Deploy feito em: [Vercel](https://vercel.com).
 
 # Como posso baixar o projeto?
 
-Para baixar você vai precisar do Git, Node.js e NPM instalados em sua maquina. Caso precise de ajuda para baixar o Node.js, [CLIQUE AQUI](https://www.youtube.com/watch?v=Wras1X6rBrc) para acessar um vídeo tutorial no youtube. Créditos do video: [Bóson Treinamentos](https://www.youtube.com/channel/UCzOGJclZQvPVgYZIwERsf5g)
+Para baixar você vai precisar do Git, Node.js, e Yarn instalados em sua maquina. Caso precise de ajuda para baixar o Yarn e o Node.js, [CLIQUE AQUI](https://www.youtube.com/watch?v=CD_GC1kvWAA) para acessar um vídeo tutorial no youtube. Créditos do video: [Cubic Code](https://www.youtube.com/channel/UCDhy8vAYoTFmi3ZSwokRaEg).
 
-Depois disso, use 
-
+Abra seu terminal.
+Depois disso, use o comando: git clone https://github.com/arthur-lage/moveit.git.
+Utilize o comando: cd nomedodiretório até chegar no diretório do projeto.
+Digite: "yarn dev" (sem áspas) e o projeto será aberto em uma nova aba de seu navegador.
