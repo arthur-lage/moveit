@@ -34,6 +34,8 @@ O aplicativo possui um som de notificação quando o timer chega em 0.
 
 Foram utilizados: React.js, Next.js, Typescript, HTML, CSS.
 
+![GIF](https://github.com/arthur-lage/moveit/blob/main/assets/2021-02-26%2017-37-07.gif)
+
 # Como usar o projeto sem baixar?
 
 [CLIQUE AQUI](https://moveit-hrnepn47a-arthur-lage.vercel.app) Este é o link do site. Deploy feito em: [Vercel](https://vercel.com).
