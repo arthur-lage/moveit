@@ -17,11 +17,11 @@ The app data (exp, level, completed challenges) is currently stored in your brow
 
 ---
 
-## The app has a leveling system, so the user will receive experience everytime he completes a new challenge.
+The app has a leveling system, so the user will receive experience everytime he completes a new challenge.
 
 ---
 
-## The app will ask your permission to show notifications, they are used to warn you there is a new challenge.
+The app will ask your permission to show notifications, they are used to warn you there is a new challenge.
 
 ---
 
@@ -39,6 +39,8 @@ The app data (exp, level, completed challenges) is currently stored in your brow
 The application has been hosted in [vercel.com](vercel.com), so you can [Click Here](https://moveit-hrnepn47a-arthur-lage.vercel.app) to use it.
 
 # How can i download the project?
+
+Open your terminal and:
 
 ```bash
   $ git clone https://github.com/arthur-lage/moveit.git
