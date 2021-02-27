@@ -1,4 +1,4 @@
-# Move.It
+<h1 align=center><img src="https://github.com/arthur-lage/moveit/blob/main/assets/logo.svg" /></h1>
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/arthur-lage/moveit/blob/main/LICENSE)
 
@@ -36,18 +36,18 @@ Foram utilizados: React.js, Next.js, Typescript, HTML, CSS.
 
 ![GIF](https://github.com/arthur-lage/moveit/blob/main/assets/2021-02-26%2017-37-07.gif)
 
-# Como usar o projeto sem baixar?
+# Project Exemple:
 
-[CLIQUE AQUI](https://moveit-hrnepn47a-arthur-lage.vercel.app) Este é o link do site. Deploy feito em: [Vercel](https://vercel.com).
+[Click Here](https://moveit-hrnepn47a-arthur-lage.vercel.app)
 
-# Como posso baixar o projeto?
+# How can i download the project?
 
-Para baixar você vai precisar do Git, Node.js, e Yarn instalados em sua maquina. Caso precise de ajuda para baixar o Yarn e o Node.js, [CLIQUE AQUI](https://www.youtube.com/watch?v=CD_GC1kvWAA) para acessar um vídeo tutorial no youtube. Créditos do video: [Cubic Code](https://www.youtube.com/channel/UCDhy8vAYoTFmi3ZSwokRaEg).
-
-1- Abra seu terminal.
-
-2- Depois disso, use o comando: git clone https://github.com/arthur-lage/moveit.git.
-
-3- Utilize o comando: cd nomedodiretório até chegar no diretório do projeto.
-
-4- Digite: "yarn dev" (sem áspas) e o projeto será aberto em uma nova aba de seu navegador.
+```bash
+  $ git clone https://github.com/arthur-lage/moveit.git
+  
+  $ cd moveit
+  
+  $ yarn install
+  
+  $ yarn start
+```
