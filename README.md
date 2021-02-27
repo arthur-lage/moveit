@@ -2,14 +2,14 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/arthur-lage/moveit/blob/main/LICENSE)
 
-# About the project
+# ✉️ About the project
 
 The move.it project was developed during the fourth edition of the Next Level Week event. ( 2021 Feb 22, 2021 Feb 28 ).
 
-# How does it work
+# ⚙️ How does it work
 
-The application will randomly generate a challenge, using the sentences in the [challenges.json](https://github.com/arthur-lage/moveit/blob/main/challenges.json) file.
-It was developed with the idea of helping people that spend a lot of time in the computer. 
+The application will ❓randomly❓ generate a challenge, using the sentences in the [challenges.json](https://github.com/arthur-lage/moveit/blob/main/challenges.json) file.
+It was developed with the idea of helping people that spend a lot of time in the computer🖥️. 
 
 After clicking the Start cicle button, the timer will start to decrease. As it reaches 0, a sound will be played telling the user there is a new challenge waiting for them.
 
@@ -27,7 +27,7 @@ The app will ask your permission to show notifications, they are used to warn yo
 
 ---
 
-# What technologies were used for this project?
+# 💻 What technologies were used for this project?
 
 1. [React.js](https://reactjs.org)
 2. [Next.js](https://nextjs.org)
@@ -35,11 +35,11 @@ The app will ask your permission to show notifications, they are used to warn yo
 
 ---
 
-# Project Example:
+# ⏰ Project Example:
 
 The application has been hosted in [vercel.com](vercel.com), so you can [Click Here](https://moveit-hrnepn47a-arthur-lage.vercel.app) to use it.
 
-# How can i download the project?
+# ⬇️ How can i download the project?
 
 Open your terminal and:
 
