@@ -37,7 +37,7 @@ The app will ask your permission to show notifications, they are used to warn yo
 
 # ⏰ Project Example:
 
-The application has been hosted in [vercel.com](vercel.com), so you can [Click Here](https://moveit-hrnepn47a-arthur-lage.vercel.app) to use it.
+The application has been hosted in [vercel.com](vercel.com), so you can [Click Here](https://moveit-7i867iy73-arthur-lage.vercel.app) to use it.
 
 # ⬇️ How can i download the project?
 
