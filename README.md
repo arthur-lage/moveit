@@ -13,6 +13,8 @@ It was developed with the idea of helping people that spend a lot of time in the
 
 After clicking the Start cicle button, the timer will start to decrease. As it reaches 0, a sound will be played telling the user there is a new challenge waiting for them.
 
+---
+
 The app data (exp, level, completed challenges) is currently stored in your browser cookies.
 
 ---
@@ -30,7 +32,6 @@ The app will ask your permission to show notifications, they are used to warn yo
 1. [React.js](https://reactjs.org)
 2. [Next.js](https://nextjs.org)
 3. [Typescript](https://www.typescriptlang.org)
-4. [HTML and CSS]
 
 ---
 
