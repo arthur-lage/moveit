@@ -27,10 +27,10 @@ The app will ask your permission to show notifications, they are used to warn yo
 
 # What technologies were used for this project?
 
--[React.js](https://reactjs.org)
--[Next.js](https://nextjs.org)
--[Typescript](https://www.typescriptlang.org)
--[HTML and CSS]
+1. [React.js](https://reactjs.org)
+2. [Next.js](https://nextjs.org)
+3. [Typescript](https://www.typescriptlang.org)
+4. [HTML and CSS]
 
 ---
 
