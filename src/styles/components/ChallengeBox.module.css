@@ -51,21 +51,21 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  border: 0;
+  border: 3px solid var(--blue);
+  color: var(--blue);
 }
 
 .challengeFail {
-  background-color: var(--red);
+  background-color: var(--white);
   border-radius: 5px;
   height: 3rem;
   width: 8rem;
-  color: var(--title);
   transition: 0.2s ease-out;
   box-shadow: 0 0 60px rgba(0, 0, 0, 0.1);
 }
 
 .challengeSucceeded {
-  background-color: var(--green);
+  background-color: var(--white);
   border: none;
   border-radius: 5px;
   height: 3rem;
@@ -76,12 +76,12 @@
 }
 
 .challengeFail:hover {
-  background-color: var(--red-dark);
+  background-color: var(--blue);
   color: var(--white);
 }
 
 .challengeSucceeded:hover {
-  background-color: var(--green-dark);
+  background-color: var(--blue);
   color: var(--white);
 }
 
